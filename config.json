@@ -1,0 +1,13 @@
+{
+    "Token": "Ton Token",
+    "Prefix": "Ton Prefix",
+    
+     "servers": [
+        "ID DU SERVER"
+    ],
+    "roleName": "ID DU ROLE",
+    "colors": 5,
+    "speed": 2000,
+    "logging": true
+}
+}
